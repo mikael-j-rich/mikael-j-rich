@@ -4,33 +4,6 @@
 
 # 👋 Hi, I’m Mikael Richardsson (@mikael-j-rich)
 
-## Loves fiddling with:
-
-<div style="display: flex; flex-wrap: wrap; gap: 32px;">
-    <div style="flex: 0 0 70px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-    </div>
-    <div style="flex: 0 0 70px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
-    </div>
-    <div style="flex: 0 0 70px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
-    </div>
-    <div style="flex: 0 0 70px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
-    </div>
-    <div style="flex: 0 0 70px;">
-        <img src="https://cdn-images-1.medium.com/max/1200/1*kcGDJHupTCUlgubqqEkCSg.png" />
-    </div>
-    <div style="flex: 0 0 70px;">
-        <img src="https://cdn-images-1.medium.com/max/1200/1*kcGDJHupTCUlgubqqEkCSg.png" />
-    </div>
-    <div style="flex: 0 0 70px;">
-        <img src="https://cdn-images-1.medium.com/max/1200/1*kcGDJHupTCUlgubqqEkCSg.png" />
-    </div>
-    
-</div>
-
 <!---
 mikael-j-rich/mikael-j-rich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
