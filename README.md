@@ -4,13 +4,16 @@
 
 # 👋 Hi, I’m Mikael Richardsson (@mikael-j-rich)
 
-<p align="middle">
-    <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-    <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" />
-    <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
-    <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />        
-    <img width="70" src="https://cdn-images-1.medium.com/max/1200/1*kcGDJHupTCUlgubqqEkCSg.png" />  
-</p>
+I'm a fullstack ish engineer
+
+## Stuff i like to fiddle with :rocket:
+
+<img width="50" style="margin-right: 16px" src="assets/images/ts-logo.svg" />
+<img width="50" style="margin-right: 16px" src="assets/images/rust-logo.svg" />
+<img width="50" style="margin-right: 16px" src="assets/images/vuejs-logo.svg" />
+<img width="50" style="margin-right: 16px" src="assets/images/k8s-logo.svg" />        
+<img width="50" style="margin-right: 16px" src="assets/images/docker-logo.svg" />
+<img width="50" src="assets/images/sass-logo.svg" />
 
 <!---
 mikael-j-rich/mikael-j-rich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
