@@ -10,6 +10,7 @@ I'm a fullstack ish engineer
 - 💬 Ask me about Vuejs, Typescript or Cloud related stuff
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Loves coding on Mac, tihi!
+- :tv: Favorite tv show: The Office
 
 ### How to reach me :mailbox:
 
